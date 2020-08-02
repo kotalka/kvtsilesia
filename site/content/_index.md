@@ -3,7 +3,7 @@ title: "KVT Silesia s.r.o."
 subtitle: Eiusmod incididunt deserunt ea magna enim anim.
 image: /img/house_5.jpg
 blurb:
-    heading: Čím se zbýváme #nadpis?
+    heading: Čím se zabýváme #nadpis?
     text: "Anim excepteur laboris nostrud et excepteur cupidatat velit. Ex non eiusmod mollit dolore dolor sint culpa duis. Anim velit eu id tempor adipisicing labore magna anim."
 # intro:
 #     heading: "Co nabízíme?"
