@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "KVT Silesia s.r.o."
+subtitle: Eiusmod incididunt deserunt ea magna enim anim.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
