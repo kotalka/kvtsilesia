@@ -5,9 +5,9 @@ subtitle: "Výstavba rodinných domů."
 image: /img/house_5.jpg
 blurb:
     heading: #nadpis?
-    text: Vlastní bydlení v rodinném domě se zahradou. 
+    text: Vlastní bydlení v rodinném domě se zahradou. \n
     
-          Sen, který se snadno může stát skutečností. 
+          Sen, který se snadno může stát skutečností. \n
     
           Stavíme kvalitní, levné a promyšlené domy, ve kterých se dobře žije.
 # intro:
