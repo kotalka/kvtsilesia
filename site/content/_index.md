@@ -6,7 +6,9 @@ image: /img/house_5.jpg
 blurb:
     heading: #nadpis?
     text: "Vlastní bydlení v rodinném domě se zahradou. 
+
     Sen, který se snadno může stát skutečností. 
+    
     Stavíme kvalitní, levné a promyšlené domy, ve kterých se dobře žije."
 # intro:
 #     heading: "Co nabízíme?"
