@@ -5,9 +5,9 @@ subtitle: "Výstavba rodinných domů."
 image: /img/house_5.jpg
 blurb:
     heading: #nadpis?
-    text1: Vlastní bydlení v rodinném domě se zahradou. 
-    text2: Sen, který se snadno může stát skutečností.
-    text3: Stavíme kvalitní, levné a promyšlené domy, ve kterých se dobře žije.*
+    text1: "Vlastní bydlení v rodinném domě se zahradou." 
+    text2: "Sen, který se snadno může stát skutečností."
+    text3: "Stavíme kvalitní, levné a promyšlené domy, ve kterých se dobře žije."
 # intro:
 #     heading: "Co nabízíme?"
 #     text: "Deserunt officia do dolore commodo laborum incididunt et fugiat esse ad occaecat cupidatat ullamco. Culpa dolor ad non sunt magna ut. Labore sit Lorem exercitation adipisicing cupidatat. Officia ex culpa esse commodo veniam irure laborum ad do tempor amet non consectetur. Id tempor deserunt aute amet laborum ad aliqua cillum. Velit est adipisicing ullamco dolor nulla amet labore eiusmod ipsum exercitation."
