@@ -1,7 +1,7 @@
 ---
-image: /img/house_5.jpg
-title: "KVT Silesia s.r.o."
-subtitle: "Výstavba rodinných domů."
+image: /img/logo.png
+title: "Silesia s.r.o."
+subtitle: "Výstavba rodinných domů"
 image: /img/house_5.jpg
 blurb:
     heading: #nadpis?
