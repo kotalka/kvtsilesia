@@ -15,3 +15,6 @@
   .i-l       { font-style: italic; }
   .fs-normal-l     { font-style: normal; }
 }
+.body   {
+  font-family: 'Varta', sans-serif;
+}
