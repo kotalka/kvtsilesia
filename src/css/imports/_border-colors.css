@@ -33,3 +33,7 @@
 .b--black {
   border-color: var(--black);
 }
+
+.pruhledne {
+opacity: 0.5;
+}
