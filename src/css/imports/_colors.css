@@ -32,6 +32,10 @@
   color: var(--grey-4);
 }
 
+.grey-5 {
+  color: var(--grey-5);
+}
+
 .black {
   color: var(--black);
 }
@@ -66,6 +70,10 @@
 
 .bg-grey-4 {
   background-color: var(--grey-4);
+}
+
+.bg-grey-5 {
+  background-color: var(--grey-5);
 }
 
 .bg-black {
